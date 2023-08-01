@@ -214,6 +214,9 @@ body {
     position: relative;
     width: 100%;
 }
+.anch{
+    color: white;
+}
 
 .topic-icon {
     box-sizing: border-box;
@@ -227,7 +230,7 @@ body {
     padding: 20px 16px;
     /* -webkit-backdrop-filter: blur(10px); */
     /* backdrop-filter: blur(10px); */
-    background-color: rgba(30, 41, 59, 0.2);
+    background-color: rgba(0, 98, 255, 0.61);
     /* overflow: hidden; */
     position: relative;
     align-content: center;
@@ -318,6 +321,7 @@ body {
 .zoom-svg {
     transform: scale(1.5);
     color: white;
+
     /* Zoom the SVG by 1.5 times on hover */
 }
 
