@@ -441,7 +441,9 @@ body {
         box-sizing: border-box;
     }
 
-    
+     .footer-desktop {
+        display: none;
+    }
 
     .footer-mobile {
         display: flex;
